@@ -7,10 +7,9 @@
 
 ## Corps principal
 Pour demander de l'aide ou partager vos trouvailles avec le projet, notre serveur Discord est disponible [ici](https://discord.gg/EF3Jq57jQv).  
-Si vous me croisez en jeu, dites-moi bonjour ! Mon pseudo est « I want to eat flowers! »
 
 ### Faire un don
-J'ai sans doute consacré *au moins* cinq cents heures à ce projet. Je veux qu'il reste gratuit pour toujours, mais je suis fauché : si vous souhaitez faire un don en guise de remerciement, voici mon Ko-fi ! https://ko-fi.com/sqooky (Je vous aimerai pour toujours)
+J'ai sans doute consacré *au moins* 500 heures à ce projet. Je veux qu'il reste gratuit pour toujours, mais je suis fauché : si vous souhaitez faire un don en guise de remerciement, voici mon Ko-fi ! https://ko-fi.com/sqooky (Je vous aimerai pour toujours)
 
 **Donateurs !**
 Je vous aime tous tellement
