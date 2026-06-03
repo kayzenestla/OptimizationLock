@@ -117,7 +117,7 @@ Merci infiniment. Le simple fait que vous considériez mon travail comme mérita
 
 ## Misc
 - Artemon121 : A créé le débloqueur de cvars Citadel, ce qui a aidé Abdalla à récupérer des cvars et à les tester en jeu.
-- Dacooder : A apporté un correctif, copié la configuration, l'a distribuée sous son propre nom, puis, quand je lui ai demandé pourquoi il avait retiré les crédits alors qu'il m'appelait auparavant « le cerveau du projet », m'a traité de harceleur et a réalisé deux vidéos et un Google Doc pour me dénoncer. Honnêtement, ça a égayé ma journée.
+- Dacooder : A apporté un correctif, copié la configuration, l'a distribuée sous son propre nom, puis, quand je lui ai demandé pourquoi il avait retiré les crédits alors qu'il m'appelait auparavant « le cerveau du projet », m'a traité de harceleur et a réalisé deux vidéos et un Google Doc pour me dénoncer. Honnêtement, ça a refait ma journée.
 - Kin : A réalisé une quantité folle de benchmarks sans qu'on le lui demande.
 - Kunet : A créé un outil de mise en forme pour la syntaxe gameinfo ! C'est pour ça que tout est correctement indenté ! C'est GÉNIAL.
 - Maihdenless : A lancé l'OptimizationLock original et son Discord.
