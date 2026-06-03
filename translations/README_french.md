@@ -4,7 +4,6 @@
 ### [Instruções em Português aqui](https://github.com/Sqooky/OptimizationLock/blob/main/translations/README_portuguese.md)
 ### [Инструкции на български тук](https://github.com/Sqooky/OptimizationLock/blob/main/translations/README_bulgarian.md)
 ### [Istruzioni in italiano qui](https://github.com/Sqooky/OptimizationLock/blob/main/translations/README_italian.md)
-### [Інструкції українською тут](https://github.com/Sqooky/OptimizationLock/blob/main/translations/README_ukrainian.md)
 
 ## Corps principal
 Pour demander de l'aide ou partager vos trouvailles avec le projet, notre serveur Discord est disponible [ici](https://discord.gg/EF3Jq57jQv).  
