@@ -23,8 +23,7 @@ Je vous aime tous tellement
 </div>
 
 # Instructions de base
-Pour installer la configuration de performance, remplacez le fichier `gameinfo.gi` situé dans ``steamapps/common/deadlock/game/citadel`` par celui téléchargé depuis ce dépôt.  
-**Un tutoriel vidéo** d'installation est disponible [ici](https://youtu.be/TbjLbQVN2kE).
+Pour installer la configuration de performance, remplacez le fichier `gameinfo.gi` situé dans ``steamapps/common/deadlock/game/citadel`` par celui téléchargé depuis ce dépôt. **Un tutoriel vidéo** d'installation est disponible [ici](https://youtu.be/TbjLbQVN2kE).
 
 # Tableau
 Voici la liste de chaque configuration disponible dans ce dépôt.
