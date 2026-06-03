@@ -86,7 +86,7 @@ Toutes les variantes des configuration incluses dans ce dépôt ont le support d
 # Crédits
 Autant que j'aimerais dire que j'ai fait ça seul, ce n'est pas le cas. Voici les personnes formidables qui méritent autant d'appréciation que moi, sinon plus.  
 Un grand merci à chacun d'entre eux du fond du cœur. Ils sont tous formidables.  
-- Sqooky:             Je suis le développeur et mainteneur principal du projet, mais sans tous les autres ici, ce projet ne serait pas maintenu à ce niveau.  
+- Sqooky:             Je suis le développeur et mainteneuse principal de ce projet, mais sans tous les autres ici, ce projet ne serait pas maintenu à ce niveau.  
 - JasperP:            Mon héros personnel. (Développeur de Valve qui m'a contacté suite à mon travail sur le projet.)  
 - Boot:               A fourni les cvars CSM, avec une amélioration notable des performances.  
 - Brullee:            A supprimé les fausses cvars et commandes redondantes, ajouté cvarlist.md et reformaté la configuration.  
@@ -95,9 +95,9 @@ Un grand merci à chacun d'entre eux du fond du cœur. Ils sont tous formidables
 - RoseyLemonz:        A supprimé les cvars en double.
 ## Donateurs
 Merci infiniment. Le simple fait que vous considériez que mon travail mérite un don est incroyable. Je vous aime tous.  
-- Boot:   M'a donné cinq dollars et est tout simplement une personne merveilleuse et un ami formidable.
-- Sonny:  M'a donné cinq dollars et a attendu patiemment que je configure un compte PayPal sans changer d'avis.
-- Soulx:  M'a donné cinq dollars et m'a parlé de la spironolactone.
+- Boot:   M'a donné 5$ et est tout simplement une personne merveilleuse et un ami formidable.
+- Sonny:  M'a donné 5$ et a attendu patiemment que je configure un compte PayPal sans changer d'avis.
+- Soulx:  M'a donné 5$ et m'a parlé de la spironolactone.
 - Xeno:   A très poliment attendu que je comprenne comment accepter les dons et a été très poli à ce sujet.
 ## Traducteurs
 - Egyptianscale:                    Traduit en russe
