@@ -1,18 +1,11 @@
 ## Traductions
 ### [Instrucciones en español aquí](https://github.com/Sqooky/OptimizationLock/blob/main/translations/README_spanish.md)
-Traduit par [Tamara Mochaccina](https://throne.com/anonimacl) et Heathen
 ### [Инструкции на русском тута](https://github.com/Sqooky/OptimizationLock/blob/main/translations/README_russian.md)
-Traduit par [Egyptianscale](https://youtube.com/@egyptianscale?si=dut5A-T0kcPaHOCM)
 ### [Instruções em Português aqui](https://github.com/Sqooky/OptimizationLock/blob/main/translations/README_portuguese.md)
-Traduit par Linaa et [anartoast](https://ko-fi.com/anartoast)
 ### [Инструкции на български тук](https://github.com/Sqooky/OptimizationLock/blob/main/translations/README_bulgarian.md)
-Traduit par [Macchiako](https://ko-fi.com/kity985)
 ### [Istruzioni in italiano qui](https://github.com/Sqooky/OptimizationLock/blob/main/translations/README_italian.md)
-Traduit par Cyvoid
 ### [中文说明](https://github.com/Sqooky/OptimizationLock/blob/main/translations/README_chinese.md)
-Traduit par [ZHTodd223](https://github.com/ZHTodd223)
 ### [Інструкції українською тут](https://github.com/Sqooky/OptimizationLock/blob/main/translations/README_ukrainian.md)
-Traduit par [Sasha11711](https://gamebanana.com/members/4167224)
 
 ## Corps principal
 Pour demander de l'aide ou partager vos trouvailles avec le projet, notre serveur Discord est disponible [ici](https://discord.gg/EF3Jq57jQv).  
