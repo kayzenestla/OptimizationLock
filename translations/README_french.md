@@ -90,7 +90,7 @@ Toutes les variantes de la configuration incluses dans ce dépôt prennent en ch
 # Crédits
 Autant que j'aimerais dire que j'ai fait ça seul, ce n'est pas le cas. Voici les personnes formidables qui méritent autant de reconnaissance que moi, sinon plus.  
 Un grand merci à chacun d'entre eux, du fond du cœur. Ils sont tous formidables.  
-- Sqooky : Je suis la développeuse et mainteneur principal du projet, mais sans tous les autres ici, il ne serait pas maintenu à ce niveau.  
+- Sqooky : Je suis la développeuse et mainteneuse principal du projet, mais sans tous les autres ici, il ne serait pas maintenu à ce niveau.  
 - JasperP : Mon héros personnel. (Développeur de Valve qui m'a contacté suite à mon travail sur le projet.)  
 - Boot : A fourni les cvars CSM, avec une amélioration notable des performances.  
 - Brullee : A supprimé les fausses cvars et les commandes redondantes, ajouté cvarlist.md et reformaté la configuration.  
